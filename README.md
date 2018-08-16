@@ -9,6 +9,9 @@
 
 便于管理，且轻量前卫，是学习拓展的好方向
 
+### screen shot
+
+![](/jianji.gif)
 
 ### Todo List
 - [x] 页面布局
