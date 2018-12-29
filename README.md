@@ -1,5 +1,7 @@
 ### RSS微信阅读器
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kelier/RSSweixin.svg)](https://greenkeeper.io/)
+
 感谢[非梦nj的博客](http://www.jianshu.com/p/fb758398268a)，里面内容十分详细
 
 该应用结合了
